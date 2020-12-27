@@ -1,1 +1,1 @@
-# Mining (not bitcon e.t.c)
+# Mining (not bitcoin e.t.c)
